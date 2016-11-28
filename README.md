@@ -1,3 +1,8 @@
+This is a minimalistic functional version of the Toy Robot problem written in Javascript (2016).
+It was written to be coherence and cohesion, without using any external libs or transpilers.
+
+Problem Description:
+
     Description:
     
     The application is a simulation of a toy robot moving on a square
