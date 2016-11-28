@@ -2,6 +2,10 @@
  * Simple custom testing method, instead of importing a testing framework
  * If you see an ERROR in your console, then something is broken.
  */
+
+  // if we had import support we would do something like this
+  // import {parser, instructions} from 'index'
+
 const expect = (it, seq) => {
   const robot = parser(seq);
   let result;
